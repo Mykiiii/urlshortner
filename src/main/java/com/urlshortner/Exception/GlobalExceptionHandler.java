@@ -1,4 +1,4 @@
-package com.example.demo.Exception;
+package com.urlshortner.Exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

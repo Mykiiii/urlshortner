@@ -1,6 +1,6 @@
-package com.example.demo.Service;
+package com.urlshortner.Service;
 
-import com.example.demo.model.UrlData;
+import com.urlshortner.model.UrlData;
 import io.micrometer.common.util.StringUtils;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
